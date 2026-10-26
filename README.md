@@ -1,16 +1,47 @@
-## Hi there 👋
 
-<!--
-**Powwardev/Powwardev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="images/banner.png" width="100%" />
+</p>
 
-Here are some ideas to get you started:
+<h1 align="center">Hey, I'm Powwar👋</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Front-end Developer in progress
+  <br/>
+  Building things for the web.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=435&lines=Learning+JavaScript;Creating+web+experiences;Building+my+portfolio" />
+</p>
+
+---
+
+### About me
+
+- 🌱 Currently learning HTML, CSS and JavaScript
+- 💻 Interested in front-end development
+- 🎮 Minecraft modding and creative projects
+- 🚀 Always learning something new
+
+### Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
+
+### GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=midnight-purple&hide_border=true" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=midnight-purple&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <i>“Turning ideas into code.”</i>
+</p>
