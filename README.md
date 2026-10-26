@@ -3,7 +3,7 @@
   <img src="images/banner.png" width="100%" />
 </p>
 
-<h1 align="center">Hey, I'm Powwar👋</h1>
+<h1 align="center">Hey, I'm Powwar </h1>
 
 <p align="center">
   Front-end Developer in progress
@@ -26,17 +26,13 @@
 
 ### Tech stack
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 </p>
 
-### GitHub Stats
+### Most Used Languages
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=midnight-purple&hide_border=true" />
-</p>
-
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=midnight-purple&hide_border=true" />
 </p>
 
