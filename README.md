@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="image/IMG_2243.jpeg" width="100%" />
+  <img src="IMG_2243.jpeg" width="100%" />
 </p>
 
 <h1 align="center">I'm Powwar </h1>
