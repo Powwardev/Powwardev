@@ -8,7 +8,7 @@
 <p align="center">
   Front-end Developer in progress
   <br/>
-  Building things for the web.
+  Building The Unmade Mod for minecraft 
 </p>
 
 <p align="center">
@@ -19,10 +19,9 @@
 
 ### About me
 
-- 🌱 Currently learning HTML, CSS and JavaScript
+- 🌱 Currently learning C# and JavaScript
 - 💻 Interested in front-end development
 - 🎮 Minecraft modding and creative projects
-- 🚀 Always learning something new
 
 ### Tech stack
 
