@@ -4,7 +4,7 @@
 <!-- BANNER: mantenha banner.png no repositório -->
 <div align="center">
 
-  <img src="download (88).jpg" width="100%" alt="Powwar banner"/>
+  <img src="rrkka" width="100%" alt="Powwar banner"/>
 
   <br/><br/>
 
